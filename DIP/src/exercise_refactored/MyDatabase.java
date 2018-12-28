@@ -1,4 +1,4 @@
-package com.meditab.training.dip.exercise;
+package exercise_refactored;
 
 import java.util.HashMap;
 import java.util.Map;
